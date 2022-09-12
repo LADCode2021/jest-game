@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "jshint": "^2.13.5"
+  },
+  "name": "jest-game",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LADCode2021/jest-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LADCode2021/jest-game/issues"
+  },
+  "homepage": "https://github.com/LADCode2021/jest-game#readme"
+}
